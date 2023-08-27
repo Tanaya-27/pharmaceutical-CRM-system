@@ -6,7 +6,7 @@ This system is for a pharmaceutical company specialising in dermatology (mostly 
 <br><br>
 The respective Entity-Relationship diagram is as follows:
 <br><br>
-![image](https://github.com/Tanaya-27/pharmaceutical-CRM-system/assets/75646651/1599a892-ee3d-4174-8383-9dd697629d77)
+![image](https://github.com/Tanaya-27/pharmaceutical-CRM-system/assets/75646651/5bf90e0b-0cba-49f7-91f4-b8fe80d86b4f)
 
 ## Features
 - **User Authentication and Authorization:** Secure user registration and login functionality ensures that only authorized personnel can access and manipulate sensitive customer and business data.
