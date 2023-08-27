@@ -18,7 +18,7 @@ The respective Entity-Relationship diagram is as follows:
 
 ## Setup and Installation
 1. Clone this repository to your local environment.
-2. Set up the relational database (MS Access SQL Server recommended) and update the file on the bin/debug path
+2. Set up the relational database (MS Access SQL Server recommended) and update the file on the bin/Debug path
 4. Run the provided `.exe` file in bin/Debug, or alternatively build and run the project using Visual Studio or your preferred C# development environment.
 5. Access the CRM system and complete authentication.
 
