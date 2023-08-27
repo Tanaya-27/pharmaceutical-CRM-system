@@ -1,2 +1,6 @@
-# pharmaceutical-CRM-system
+# CRM system for a pharmaceutical company
 My implementation of a Customer Relationship Managegement (CRM) system, based around a startup pharmaceutical company that centres around dermatology. The system involves CRM as well as graphical sales figures (graphs, top ten sellers/buyers) built from the client's input data.
+### Background
+This system is for a pharmaceutical company specialising in dermatology (mostly creams and ointments for eczema). The primary client is a healthcare development executive, who must conduct frequent meetings with, as well as send product samples to, pharmacists and GPs. Interactions with their consultants must be documented, along with any orders made. Sales data, put out on a monthly to daily basis, is also useful to HDEs while at work, to keep track of top purchasers, products etc. On their current system, however, graphical figures are held on a spreadsheet, separate to customer relationship data. The company requires a ‘CRM’ system: Customer Relationship Management.
+<br><br>
+Please note: The completed system has been implemented with faux sales data in the form of a MS Access database, to demonstrate the product's features. This application could be administered with different data, and indeed by a different pharmaceutical sales business.
