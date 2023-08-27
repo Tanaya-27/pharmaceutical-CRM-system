@@ -24,7 +24,14 @@ The respective Entity-Relationship diagram is as follows:
 
 ## User Acceptance Testing
 Testing involves validating the system's functionality, usability, and overall performance from an end-user perspective, ensuring the system aligns with predisposed user requirements and specifications by mimicing an end user. A [full test](https://www.youtube.com/playlist?list=PLymLVDm7FWfjtw3ekLNX-tTZZl8pFxi6z) of the working system can be found via the YouTube link.
-<br>
+
+## Future Enhancements
+This implementation serves as a strong foundation for pharmaceutical customer relationship management. Looking ahead, several enhancements could have further elevated its capabilities:
+- **Advanced Analytics:** Elevate insights with predictive analytics and visualization using AI suggestions, aiding strategic decisions and sales projections.
+- **Mobile App:** Develop a mobile app for on-the-go access, especially beneficial for field sales representatives.
+- **Enhanced Security:** Strengthen data protection with features like two-factor authentication and encryption.
+- **Collaboration Tools:** Foster internal collaboration through integrated feedback and discussion boards.
+- **Performance Optimization:** Continuously optimize performance to handle growing data and user loads.
 
 ---
 An example of the initial Dashboard page is as follows:
