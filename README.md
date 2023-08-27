@@ -23,7 +23,7 @@ The respective Entity-Relationship diagram is as follows:
 5. Access the CRM system and complete authentication.
 
 ## User Acceptance Testing
-Testing involves validating the system's functionality, usability, and overall performance from an end-user perspective, ensuring the system aligns with predisposed user requirements and specifications by mimicing an end user. A [full test](https://www.youtube.com/playlist?list=PLymLVDm7FWfjtw3ekLNX-tTZZl8pFxi6z) of the working system can be found via the YouTube link.
+Testing involves validating the system's functionality, usability, and overall performance from an end-user perspective, ensuring the system aligns with predisposed user requirements and specifications by mimicking an end user. A [full test](https://www.youtube.com/playlist?list=PLymLVDm7FWfjtw3ekLNX-tTZZl8pFxi6z) of the working system can be found via the YouTube link.
 
 ## Future Enhancements
 This implementation serves as a strong foundation for pharmaceutical customer relationship management. Looking ahead, several enhancements could have further elevated its capabilities:
