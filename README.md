@@ -31,5 +31,5 @@ An example of the initial Dashboard page is as follows:
 <br><br>
 ![image](https://github.com/Tanaya-27/pharmaceutical-CRM-system/assets/75646651/acd6e2f2-a494-4739-b355-1ea7ba167e47)
 
-<br>
+
 > Please note: The completed system has been implemented with faux sales data in the form of a MS Access database, to demonstrate the product's features. This application could be administered with different data, and indeed by a different pharmaceutical sales business.
