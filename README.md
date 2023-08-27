@@ -5,7 +5,7 @@ My implementation of a Customer Relationship Managegement (CRM) system in C# usi
 This system is for a pharmaceutical company specialising in dermatology (mostly creams and ointments for eczema). The primary client is a healthcare development executive, who must conduct frequent meetings with, as well as send product samples to, pharmacists and GPs. Interactions with their consultants must be documented, along with any orders made. Sales data, put out on a monthly to daily basis, is also useful to HDEs while at work, to keep track of top purchasers, products etc. On their current system, however, graphical figures are held on a spreadsheet, separate to customer relationship data. The company requires a ‘CRM’ system: Customer Relationship Management.
 <br><br>
 The respective Entity-Relationship diagram is as follows:
-<br>
+<br><br>
 ![image](https://github.com/Tanaya-27/pharmaceutical-CRM-system/assets/75646651/1599a892-ee3d-4174-8383-9dd697629d77)
 
 ## Features
